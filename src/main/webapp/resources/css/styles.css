@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+body {
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	width: 48em;
+	margin: 0 auto;
+}
+
+#header {
+	background-color: cyan;
+	color: white;
+	padding: 1em;
+	text-align: center;
+}
+table {
+	width: 100%;
+}
+#m{
+	color: #FA300C.;
+}
